@@ -3,4 +3,4 @@ b = 5
 print(a + b)
 print(a - b)
 print("Хелоу ворлд")
-print(123)
+print("Второе занятие")
