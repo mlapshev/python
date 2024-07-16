@@ -10,5 +10,4 @@ test(main)
 ##print(f)
 name = input("Свое имя: ")
 surname = input("Свою фамилию :")
-
 print(f"Меня зовут {name}, а фамилия моя {surname}")
